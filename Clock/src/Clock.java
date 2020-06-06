@@ -1,5 +1,5 @@
 /**
- * @author NJR10byh、怪兽石团长、愛殇璃
+ * @author NJR10byh
  * @time 2020.6.1
  * */
 
